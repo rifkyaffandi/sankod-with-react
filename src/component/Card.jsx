@@ -85,7 +85,6 @@ const bodyCard = () => {
           </div>
           {/* <!-- 2ndRowEnd --> */}
         </div>
-        <br />
       </bodyCard>
     </div>
   );
